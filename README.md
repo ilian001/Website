@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Website
 personal website project
 =======
@@ -26,4 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> 503ffb9... initial commit
